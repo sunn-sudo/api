@@ -1,0 +1,12 @@
+{
+  "cSpell.words": [
+    "codepaths",
+    "openapi",
+    "openapitools",
+    "Petstore",
+    "tsbuildinfo"
+  ],
+  "prettier.trailingComma": "es5",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": false
+}

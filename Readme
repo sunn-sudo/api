@@ -1,0 +1,18 @@
+# 参考サイト
+
+## axios、express 関連
+
+https://zenn.dev/mkt_engr/articles/axios-req-res-typescript
+https://expressjs.com/ja/starter/hello-world.html
+
+## 自動生成
+
+https://zenn.dev/fumo/articles/233d82b796d489
+
+## OpenApi エディター
+
+https://editor.swagger.io/
+
+## 使用方法参考
+
+https://github.com/keitaisozaki/sample_open_api_generator/blob/main/api/index.ts
